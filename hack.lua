@@ -59,7 +59,7 @@ return {
 	BufferSize = 25;
 	
 	ROBLOXAdminList = {
-		"NikePro2004";
+		"iiXynx";
 		"";
 		"";
 		"";
